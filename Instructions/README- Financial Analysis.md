@@ -1,7 +1,7 @@
 ## Financial Analysis
 
 
-## Budget Analysis
+## Budget Analysis:
 
 We analysed the transactions for the client over the last 90 days from April 2020 to June 2020.
 From the analysis we could see that the main areas of spending were as follows: 
@@ -25,7 +25,7 @@ The bar chart below, also shows that the spending is identical each month.
 
 ![Spending per month](My_images/Spending-per-month.PNG)
 
-## Retirement Analysis
+## Retirement Analysis:
 
 The client's portfolio consists of 50% stock and 40% bonds.   We analysed 500 simulations of this portfolio for the next 30 years .
 
